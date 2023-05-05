@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssAiParser", "RssAiParser\RssAiParser.csproj", "{FCE9AD99-67FC-48BF-BCCD-52A9B8E7778A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE9AD99-67FC-48BF-BCCD-52A9B8E7778A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE9AD99-67FC-48BF-BCCD-52A9B8E7778A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE9AD99-67FC-48BF-BCCD-52A9B8E7778A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE9AD99-67FC-48BF-BCCD-52A9B8E7778A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EC8E942-3E74-4877-BE56-6779F6D3D146}
+	EndGlobalSection
+EndGlobal
