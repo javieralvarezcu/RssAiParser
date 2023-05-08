@@ -5,6 +5,7 @@ namespace RssAiParser.Models
     public class OriginalNew
     {
         [Key]
+        [MaxLength(500)]
         public string Url { get; set; }
         public string? Titular { get; set; }
         public string? Subtitulo { get; set; }

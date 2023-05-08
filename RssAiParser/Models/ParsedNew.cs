@@ -11,6 +11,7 @@ namespace RssAiParser.Models
         public string? Cuerpo { get; set; }
         public DateTime? ParsingDate { get; set; }
 
+        [MaxLength(500)]
         public string OriginalId { get; set; }
         public OriginalNew Original { get; set; }
     }
